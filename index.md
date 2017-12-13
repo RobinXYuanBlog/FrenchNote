@@ -28,21 +28,125 @@ je, tu, il/elle, nous, vous, ils/elles
 
 parler - parl  =>  parl + e, es, e, ons, ez, ent
 
-| 人称 | 词根 | 词尾 | 变位词尾 | 变位 | 备注 |
-| :-: | :-: | :-: | :-: | :-: |
-|PARLER|
-| Je |  |  |  e  | Je parle |
-| Tu |  |  |  es  | Tu parles |
-| Il/Elle | parl | er |  e  | Il/Elle parle |
-| Nous |  |  |  ons  | Nous parlons |
-| Vous |  |  |  ez  | Vous parlez |
-| Ils/Elles |  |  |  ent  | Ils/Elles parlent |
-|HABITER|
-| Je |  |  |  e  | J'habite |
-| Tu |  |  |  es  | Tu habites |
-| Il/Elle | habit | er |  e  | Il/Elle habite | 注意连读 |
-| Nous |  |  |  ons  | Nous habitons |
-| Vous |  |  |  ez  | Vous habitez |
-| Ils/Elles |  |  |  ent  | Ils/Elles habitent |
+<table>
+  <tr>
+    <td>人称</td>
+    <td>词根</td>
+    <td>词尾</td>
+    <td>变位词尾</td>
+    <td>变位</td>
+    <td>备注</td>
+  </tr>
+  <tr colspan="6">
+    <td>PARLER</td>
+  </tr>
+  <tr>
+    <td>Je</td>
+    <td rowspan="6">PARL</td>
+    <td rowspan="6">ER</td>
+    <td>e</td>
+    <td>Je parle</td>
+    <td rowspan="6">-</td>
+  </tr>
+  <tr>
+    <td>Tu</td>
+    <td>es</td>
+    <td>Tu parles</td>
+  </tr>
+  <tr>
+    <td>Il/Elle</td>
+    <td>e</td>
+    <td>Il/Elle parle</td>
+  </tr>
+  <tr>
+    <td>Nous</td>
+    <td>ons</td>
+    <td>Nous parlons</td>
+  </tr>
+  <tr>
+    <td>Vous</td>
+    <td>ez</td>
+    <td>Vous parlez</td>
+  </tr>
+  <tr>
+    <td>Ils/Elles</td>
+    <td>ent</td>
+    <td>Ils/Elles parlent</td>
+  </tr>
+  <tr colspan="6">
+    <td>HABITER</td>
+  </tr>
+  <tr>
+    <td>Je</td>
+    <td rowspan="6">HABIT</td>
+    <td rowspan="6">ER</td>
+    <td>e</td>
+    <td>J'habite</td>
+    <td rowspan="6">注意连读和联诵</td>
+  </tr>
+  <tr>
+    <td>Tu</td>
+    <td>es</td>
+    <td>Tu habites</td>
+  </tr>
+  <tr>
+    <td>Il/Elle</td>
+    <td>e</td>
+    <td>Il/Elle habite</td>
+  </tr>
+  <tr>
+    <td>Nous</td>
+    <td>ons</td>
+    <td>Nous habitons</td>
+  </tr>
+  <tr>
+    <td>Vous</td>
+    <td>ez</td>
+    <td>Vous habitez</td>
+  </tr>
+  <tr>
+    <td>Ils/Elles</td>
+    <td>ent</td>
+    <td>Ils/Elles habitent</td>
+  </tr>
+  <tr colspan="6">
+    <td>APPELER</td>
+  </tr>
+  <tr>
+    <td>Je</td>
+    <td rowspan="6">APPEL</td>
+    <td rowspan="6">ER</td>
+    <td>e</td>
+    <td>J'appelle</td>
+    <td rowspan="6">注意除第一/二人称复数变位需多加l</td>
+  </tr>
+  <tr>
+    <td>Tu</td>
+    <td>es</td>
+    <td>Tu appelles</td>
+  </tr>
+  <tr>
+    <td>Il/Elle</td>
+    <td>e</td>
+    <td>Il/Elle appelle</td>
+  </tr>
+  <tr>
+    <td>Nous</td>
+    <td>ons</td>
+    <td>Nous appelons</td>
+  </tr>
+  <tr>
+    <td>Vous</td>
+    <td>ez</td>
+    <td>Vous appelez</td>
+  </tr>
+  <tr>
+    <td>Ils/Elles</td>
+    <td>ent</td>
+    <td>Ils/Elles appellent</td>
+  </tr>
+</table>
 
+2. 阴性和阳性 - le genre
+Il est français / Elle est française
 
