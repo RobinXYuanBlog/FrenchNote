@@ -216,6 +216,6 @@ C'est un Français.
 - Non, Aldo. Il s'appele Aldo.
 
 **数数**
-|vingt|20|vingt et un/une|21|vingt deux|22|
-|trente|30|trente et un/une|31|trente deux|32|
-|quarante|cinquante|
+| vingt | 20 | vingt et un/une | 21 | vingt deux | 22 |
+| trente | 30 | trente et un/une | 31 | trente deux | 32 |
+| quarante | cinquante |
