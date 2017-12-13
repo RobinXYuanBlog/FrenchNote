@@ -173,6 +173,49 @@ Bonsoir.
 
 Salut -- 随意问好
 
+- ce
+C'est Julie. / Ce sont Aldo et Julie.
 
+étudiant,e 学生
 
+Il est étudiant. / Elle est étudiante.
 
+- femme 妻子
+
+Voici ma femme.
+
+-mari 丈夫
+
+Voici mon mari.
+
+-homme 男人
+
+C'est un homme.
+
+- français,e / Français,e
+
+Il est français.
+
+C'est un Français.
+
+- nationalité 国籍
+- nom 姓
+- prénom 名
+- voici 这是
+- voilà 那是
+
+**情景交际**
+
+- Bonjour, monsieur. Vous vous appelez (comment)?
+- Doucet. Yves Doucet. Et voici ma femme, Alice.
+- Boujour, madame.
+
+- Bonjour. Je suis Alice Doucet. Vous êtes madame Falco?
+- Boujour. Oui, je m'appele Nicole Falco. Aldo, mon mari.
+- Arnaud?
+- Non, Aldo. Il s'appele Aldo.
+
+**数数**
+|vingt|20|vingt et un/une|21|vingt deux|22|
+|trente|30|trente et un/une|31|trente deux|32|
+|quarante|cinquante|
