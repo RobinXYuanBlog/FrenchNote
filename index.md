@@ -110,43 +110,69 @@ parler - parl  =>  parl + e, es, e, ons, ez, ent
     <td>Ils/Elles habitent</td>
   </tr>
   <tr>
-    <td colspan="6">APPELER</td>
+    <td colspan="6">M'APPELER</td>
   </tr>
   <tr>
     <td>Je</td>
     <td rowspan="6">APPEL</td>
     <td rowspan="6">ER</td>
     <td>e</td>
-    <td>J'appelle</td>
+    <td>J m'appelle</td>
     <td rowspan="6">注意除第一/二人称复数变位需多加l</td>
   </tr>
   <tr>
     <td>Tu</td>
     <td>es</td>
-    <td>Tu appelles</td>
+    <td>Tu t'appelles</td>
   </tr>
   <tr>
     <td>Il/Elle</td>
     <td>e</td>
-    <td>Il/Elle appelle</td>
+    <td>Il/Elle s'appelle</td>
   </tr>
   <tr>
     <td>Nous</td>
     <td>ons</td>
-    <td>Nous appelons</td>
+    <td>Nous nous appelons</td>
   </tr>
   <tr>
     <td>Vous</td>
     <td>ez</td>
-    <td>Vous appelez</td>
+    <td>Vous vous appelez</td>
   </tr>
   <tr>
     <td>Ils/Elles</td>
     <td>ent</td>
-    <td>Ils/Elles appellent</td>
+    <td>Ils/Elles s'appellent</td>
   </tr>
 </table>
 
 2. 阴性和阳性 - le genre
+
 Il est français / Elle est française
+
+3. 疑问词 qui
+
+Qui est-ce?  ---  Who is this?
+
+C'est qui?
+
+Qui c'est?
+
+**实用单词**
+- appeler(s') v.pr. 名叫
+Tu t'appelles comment? / Comment vous vous appelez
+- bienvenue n.f. 欢迎
+Bienvenue à tous!
+- bonjour n.m. 你好
+Bonjour, monsieur!
+
+Bonjour, Mademoiselle!
+
+Bonsoir.
+
+Salut -- 随意问好
+
+
+
 
