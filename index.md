@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Robin.X.Yuan French Notebook
 
-You can use the [editor on GitHub](https://github.com/RobinXYuanBlog/FrenchNote/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+教材：Bonjour, Taxi!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Leçon 1 语法
 
-### Markdown
+1. 动词变位
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**主语代词**
 
-```markdown
-Syntax highlighted code block
+je, tu, il/elle, nous, vous, ils/elles
 
-# Header 1
-## Header 2
-### Header 3
+Être 是
 
-- Bulleted
-- List
+| | Sujet | Être |
+|:---:||:----:|:--:|
+|Single|Je|suis|Tu|es|Il/Elle|est
+|Pluriel|Nous|sommes|Vous|êtes|Ils/Elles|sont
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobinXYuanBlog/FrenchNote/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
