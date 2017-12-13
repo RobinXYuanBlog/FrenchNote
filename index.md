@@ -28,13 +28,21 @@ je, tu, il/elle, nous, vous, ils/elles
 
 parler - parl  =>  parl + e, es, e, ons, ez, ent
 
-| 词| 人称 | 词根 | 词尾 | 变位词尾 | 变位 |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|  | Je |  |  |  e  | parle |
-|  | Tu |  |  |  es  | parles |
-| parler | Il/Elle | parl | er |  e  | parle |
-|  | Nous |  |  |  ons  | parlons |
-|  | Vous |  |  |  ez  | parlez |
-|  | Ils/Elles |  |  |  ent  | parlent |
+| 人称 | 词根 | 词尾 | 变位词尾 | 变位 | 备注 |
+| :-: | :-: | :-: | :-: | :-: |
+|PARLER|
+| Je |  |  |  e  | Je parle |
+| Tu |  |  |  es  | Tu parles |
+| Il/Elle | parl | er |  e  | Il/Elle parle |
+| Nous |  |  |  ons  | Nous parlons |
+| Vous |  |  |  ez  | Vous parlez |
+| Ils/Elles |  |  |  ent  | Ils/Elles parlent |
+|HABITER|
+| Je |  |  |  e  | J'habite |
+| Tu |  |  |  es  | Tu habites |
+| Il/Elle | habit | er |  e  | Il/Elle habite | 注意连读 |
+| Nous |  |  |  ons  | Nous habitons |
+| Vous |  |  |  ez  | Vous habitez |
+| Ils/Elles |  |  |  ent  | Ils/Elles habitent |
 
 
