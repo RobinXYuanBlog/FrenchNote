@@ -37,8 +37,8 @@ parler - parl  =>  parl + e, es, e, ons, ez, ent
     <td>变位</td>
     <td>备注</td>
   </tr>
-  <tr colspan="6">
-    <td>PARLER</td>
+  <tr>
+    <td colspan="6">PARLER</td>
   </tr>
   <tr>
     <td>Je</td>
@@ -73,8 +73,8 @@ parler - parl  =>  parl + e, es, e, ons, ez, ent
     <td>ent</td>
     <td>Ils/Elles parlent</td>
   </tr>
-  <tr colspan="6">
-    <td>HABITER</td>
+  <tr>
+    <td  colspan="6">HABITER</td>
   </tr>
   <tr>
     <td>Je</td>
@@ -109,8 +109,8 @@ parler - parl  =>  parl + e, es, e, ons, ez, ent
     <td>ent</td>
     <td>Ils/Elles habitent</td>
   </tr>
-  <tr colspan="6">
-    <td>APPELER</td>
+  <tr>
+    <td colspan="6">APPELER</td>
   </tr>
   <tr>
     <td>Je</td>
