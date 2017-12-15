@@ -2,7 +2,11 @@
 
 教材：Bonjour, Taxi!
 
-Leçon 1 语法
+### Unité 1
+
+### Leçon 1 
+
+语法
 
 1. 动词变位
 
@@ -219,3 +223,39 @@ C'est un Français.
 | vingt | 20 | vingt et un/une | 21 | vingt deux | 22 |
 | trente | 30 | trente et un/une | 31 | trente deux | 32 |
 | quarante | cinquante |
+
+### Leçon 2 Qui est-ce?
+
+语法
+
+1. L'article défini 定冠词
+
+不定冠词 un, une
+
+Un Français / Une Française
+
+定冠词 le, la
+
+Le Français / La Française
+
+**le + étudiant = l'étudiant**
+
+**la + étudiante = l'étudiante**
+
+un homme / l'homme
+
+- C'est une belle voiture. La voiture est à M.Dupont. 前文提到的事物。
+
+*etre + à 表属于谁的*
+
+- Nous n'avons pas de cours ce matin. Le professeur est malade.  表示大家都知道指代的。
+
+- Anne est la petite soeur de Paul. 表示特定的，限定的。
+
+- J'aime beaucoup le café. 表示整体。
+
+- La Terre est ronde. 表示客观事实。
+
+
+
+
