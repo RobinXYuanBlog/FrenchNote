@@ -256,6 +256,37 @@ un homme / l'homme
 
 - La Terre est ronde. 表示客观事实。
 
+2. La forme féminine des noms 名词的阴阳性
+
+- 基本规则之一：+e
+
+  Le Français -> La Française <br>
+  Le Chinois -> La Chinoise
+- 基本规则之二：以e结尾不变
+
+  le secrétaire -> la secrétaire
+  le photographe -> la photographe
+  
+- 特殊规则
+  A. -teur -> trice
+    le directeur -> la directrice <br>
+    l'acteur -> l'actrice
+  B. -eur -> -euse
+    le chanteur -> la chanteuse <br>
+    le danseur -> la danseuse
+  C. -er -> ère
+    le boulanger -> la boulangère <br>
+    l'étranger -> l'étrangère
+  D. -f -> -ve
+    le juif -> la juive 犹太人
+  E. -ien -> ienne
+    l'italien -> l'talienne <br>
+    l'informaticien -> l'informaticienne  程序员
+  F. 只有阳性
+    le professeur -> la femme professeur <br>
+    le médecin -> la femme médecin <br>
+    l'ingénieur -> la femme ingénieur <br>
+
 
 
 
