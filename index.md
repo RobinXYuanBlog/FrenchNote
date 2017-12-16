@@ -226,7 +226,7 @@ C'est un Français.
 
 ### Leçon 2 Qui est-ce?
 
-语法
+#### 语法
 
 1. L'article défini 定冠词
 
@@ -286,6 +286,49 @@ un homme / l'homme
     le professeur -> la femme professeur <br>
     le médecin -> la femme médecin <br>
     l'ingénieur -> la femme ingénieur <br>
+
+3. 介词 + 国名/城市名
+
+如何区分国家名词阴阳性
+
+以e结尾的都是阴性，常用的除了 **le Combodge**(柬埔寨)，**le Mexique**（墨西哥)
+
+  A. 表示在，去
+    a. +阴性国名，en
+      en Chine, en France
+    b. +阳性名词，au
+      au Japon
+    c. 阳性国名以**元音**开头，en
+    d. 城市部分阴阳性，à
+    
+#### 实用单词
+
+1. un assistant / une assistante 助手
+2. le directeur / la drectrice 主管
+3. le photographe / la photographe 摄影师
+4. un professeur 老师
+5. le secrétaire / la secrétaire 秘书
+6. un café
+7. un thé
+8. une carte de visite 名片
+9. le cours de français 法语课
+10. dans -> in
+
+#### 情景交际
+
+介绍别人
+
+C'est Mario. / Voici, Mario. / Elle s'appelle Mario.
+
+Elle est française.
+
+Elle habite à Paris, en France.
+
+#### 数数
+soixante 60 -- soixante et un 61 -- soixante deux 62
+
+soixante-dix 70 -- soixante-onze 71 -- soixante-douze 72
+
 
 
 
