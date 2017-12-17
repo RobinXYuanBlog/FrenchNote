@@ -361,7 +361,6 @@ c. mes + n.pl.
     <td>复数</td>
   </tr>
   <tr>
-    <td></td>
     <td>阳性</td>
     <td>阴性</td>
     <td>两性公用</td>
@@ -404,10 +403,155 @@ c. mes + n.pl.
   </tr>
 </table>
 
-3. 不定冠词(I)
+例子
+<table>
+  <tr>
+    <td rowspan="2"></td>
+    <td colspan="2">单数</td>
+    <td>复数</td>
+  </tr>
+  <tr>
+    <td>阳性</td>
+    <td>阴性</td>
+    <td>两性公用</td>
+  </tr>
+  <tr>
+    <td>我的</td>
+    <td>mon professeur</td>
+    <td>ma fille <br> mon école</td>
+    <td>mes professeurs</td>
+  </tr>
+  <tr>
+    <td>你的</td>
+    <td>ton voisin</td>
+    <td>ta voisine <br> ton amie</td>
+    <td>tes voisins</td>
+  </tr>
+  <tr>
+    <td>他（她、它）的</td>
+    <td>son fils</td>
+    <td>sa femme <br> son histoire</td>
+    <td>ses fils</td>
+  </tr>
+  <tr>
+    <td>我们的</td>
+    <td>notre ami</td>
+    <td>notre amie</td>
+    <td>nos amis</td>
+  </tr>
+  <tr>
+    <td>您的（你们的）</td>
+    <td>votre ami</td>
+    <td>votre amie</td>
+    <td>vos amis</td>
+  </tr>
+  <tr>
+    <td>他（她、它）们的</td>
+    <td>leur professeur</td>
+    <td>leur fille</td>
+    <td>leurs professeurs</td>
+  </tr>
+</table>
+
+**注意**
+
+mon école
+
+在以元音或哑音h开头的单数阴性名词前，用mon/ton/son
+
+3. l'article indéfini 不定冠词(I)
+
+un une
 
 4. Quel的用法
 
+<table>
+  <tr>
+    <td></td>
+    <td>Masculin 阳性</td>
+    <td>Féminin 阴性</td>
+  </tr>
+  <tr>
+    <td>Singulier 单数</td>
+    <td>quel <br> quel professeur</td>
+    <td>quelle <br> quelle amie</td>
+  </tr>
+</table>
+
+1. 疑问句中作表语
+  Quel est/Quelle est
+  
+  - Quel est votre nom?
+  - Mon nom est Dupont.
+  - Quel est votre prénom? 
+  - Mon prénom est Julie.
+  - Quelle ton adresse?
+  - 1, rue du Four.
+
+le numéro de téléphone.
+
+2. 在疑问句中修饰名词
+
+- Quel professeur tu préfères?
+- Madame Dupont.
+
+- Quelle voiture tu cherches?
+- Une Renault.
+
+Tu as quel âge? 你几岁了？
+
 5. 数字至100
 
+quatre-vingts 80 | quatre-vingts un 81 | quatre-vingts deux 82
 
+quatre-vingts-dix 90 | quatre-vingts-onze 91 | quatre-vingts-douze 92
+
+#### 实用单词
+- adresse *n.f.* 地址，住址
+- âge *n.m.* 年龄
+- aller *v.i.* 去，走
+- alors *adv.* 那么
+- ami(e) *n.* 朋友
+- avec *prép* 和……一起
+- avoir *v.t.* 有
+- bébé *n.m.* 婴儿
+- bien *adv.* well 好
+- Très bien 非常好
+- e-mail *n.m.* 电子邮件
+- fille *n.f.* 女孩
+- fils *n.m.* 儿子
+- garçon *n.m.* 男孩
+- journée *n.f.* 一天，白昼
+- Bonne journée 一天愉快
+- maintenant *adv.* 现在
+- merci *interj.* 谢谢
+- Merci à vous. 谢谢您
+- Notre-Dame *n.f.inv.* 圣母院
+- nuit *n.f.* 晚安
+- Bonne route 旅途愉快
+- Bonne soirée 晚上愉快
+- Bonne semaine! 一周愉快
+- Bon week-end 周末愉快
+- Bon voyage! 旅途愉快！
+- numéro *n.m.* 号码
+
+01 34 56 26 78 两位两位报
+
+- L'Arc de Triomphe 凯旋门
+- parler *v.i.* 说话，讲话 *v.t.dir.* 讲……语言
+
+#### 情景交际
+Ça va bien?/Ça va?/Comment ça va?/Tu vas bien?/Comment tu vas?/Comment allez-vous
+
+- Salut, Céline, tu vas bien?
+- Oui, ça va bien, et toi?
+- Je vais bien, merci...J'habite à Montréal, maintenant avex ma femme.
+- Au Canada?
+- Oui, oui, au Canada.
+- Ah, c'est bien. Quelle ton adresse?
+- Mon adresse. Alors, c'est: David Delage, 3 Notre-Dame, à Montréal.
+- Et tu as une adresse e-mail?
+- Oui, c'est ddelage@hotmail.com. (@ arobase)
+- Comment va ton ami espagnol?
+- Luis, Il va bien. Il est à Paris avec son fils. Il parle français maintenant.
+- Tu as son adresse?
