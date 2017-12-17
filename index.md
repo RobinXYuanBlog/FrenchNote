@@ -330,6 +330,84 @@ soixante 60 -- soixante et un 61 -- soixante deux 62
 soixante-dix 70 -- soixante-onze 71 -- soixante-douze 72
 
 
+### Leçon 3 Ça va bien?
 
+1. 动词aller和avoir的现在时变位
+- aller 去
+je vais | tu vas | il/elle va | nous allons | vous allez | ils/ells vont
+
+* Je vais en France 我去法国
+* Tu vas à Paris? 你去巴黎吗？
+- avoir 有
+j'ai | tu as | il/elle a | nous avons | vous avez | ils/elles ont
+
+* J'ai un secrétaire. 我有一个秘书。
+* Tu as un café. 你有一杯咖啡。
+* Vous avez un rendez-vous? 您有一个约会？
+2. 主有形容词(I)
+- 我的
+a. mon + n.m. 
+
+mon secrétaire / ma secrétaire / mes secrétaires
+
+Julie, c'est mon prénom.
+b. ma + n.f. 
+c. mes + n.pl.
+
+<table>
+  <tr>
+    <td rowspan="2"></td>
+    <td colspan="2">单数</td>
+    <td>复数</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>阳性</td>
+    <td>阴性</td>
+    <td>两性公用</td>
+  </tr>
+  <tr>
+    <td>我的</td>
+    <td>mon</td>
+    <td>ma</td>
+    <td>mes</td>
+  </tr>
+  <tr>
+    <td>你的</td>
+    <td>ton</td>
+    <td>ta</td>
+    <td>tes</td>
+  </tr>
+  <tr>
+    <td>他（她、它）的</td>
+    <td>son</td>
+    <td>sa</td>
+    <td>ses</td>
+  </tr>
+  <tr>
+    <td>我们的</td>
+    <td>notre</td>
+    <td>notre</td>
+    <td>nos</td>
+  </tr>
+  <tr>
+    <td>您的（你们的）</td>
+    <td>votre</td>
+    <td>votre</td>
+    <td>vos</td>
+  </tr>
+  <tr>
+    <td>他（她、它）们的</td>
+    <td>leur</td>
+    <td>leur</td>
+    <td>leurs</td>
+  </tr>
+</table>
+
+3. 不定冠词(I)
+
+4. Quel的用法
+
+5. 数字至100
 
 
