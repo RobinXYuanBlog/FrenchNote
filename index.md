@@ -558,11 +558,12 @@ quatre-vingts-dix 90 | quatre-vingts-onze 91 | quatre-vingts-douze 92
 
 ### Unité 2 Portraits
 #### Leçon 5 Trouvez l'objet
+
 1. 定冠词
 <table>
   <tr>
-    <td colspan="2">单数</td>
-    <td colspan="2">复数</td>
+    <td colspan="2">单数 Singulier</td>
+    <td colspan="2">复数 Pluriel</td>
   </tr>
   <tr>
     <td>le</td>
@@ -581,5 +582,65 @@ quatre-vingts-dix 90 | quatre-vingts-onze 91 | quatre-vingts-douze 92
     <td>les étudiants/les étudiantes</td>
   </tr>
 </table>
+
+2. 不定冠词
+
+<table>
+  <tr>
+    <td colspan="2">单数 Singulier</td>
+    <td colspan="2">复数 Pluriel</td>
+  </tr>
+  <tr>
+    <td>un</td>
+    <td>un voisin</td>
+    <td rowspan="2">des</td>
+    <td>des voisins</td>
+  </tr>
+  <tr>
+    <td>une</td>
+    <td>une voisine</td>
+    <td>des voisines</td>
+  </tr>
+</table>
+
+3. 缩合冠词
+
+<table>
+  <tr>
+    <td colspan="3">Les arcticles contractés</td>
+  </tr>
+  <tr>
+    <td rowspan="4">à+</td>
+    <td>le</td>
+    <td>au</td>
+    <td rowspan="4">de+</td>
+    <td>le</td>
+    <td>du</td>
+  </tr>
+  <tr>
+    <td>la</td>
+    <td>à la</td>
+    <td>la</td>
+    <td>de la</td>
+  </tr>
+  <tr>
+    <td>l'</td>
+    <td>à l'</td>
+    <td>l'</td>
+    <td>de l'</td>
+  </tr>
+  <tr>
+    <td>les</td>
+    <td>aux</td>
+    <td>les</td>
+    <td>des</td>
+  </tr>
+</table>
+
+**例**
+- Je vais **au** Japon
+- Elle va **à la** bibliothèque
+- C'est le manteau **du** directeur
+
 
 çéèà
