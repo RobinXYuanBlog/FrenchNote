@@ -559,7 +559,7 @@ quatre-vingts-dix 90 | quatre-vingts-onze 91 | quatre-vingts-douze 92
 ### Unité 2 Portraits
 #### Leçon 5 Trouvez l'objet
 
-1. 定冠词
+1.定冠词
 <table>
   <tr>
     <td colspan="2">单数 Singulier</td>
@@ -583,8 +583,7 @@ quatre-vingts-dix 90 | quatre-vingts-onze 91 | quatre-vingts-douze 92
   </tr>
 </table>
 
-2. 不定冠词
-
+2.不定冠词
 <table>
   <tr>
     <td colspan="2">单数 Singulier</td>
@@ -603,8 +602,7 @@ quatre-vingts-dix 90 | quatre-vingts-onze 91 | quatre-vingts-douze 92
   </tr>
 </table>
 
-3. 缩合冠词
-
+3.缩合冠词
 <table>
   <tr>
     <td colspan="3">Les arcticles contractés</td>
